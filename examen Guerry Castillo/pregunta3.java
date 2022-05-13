@@ -6,8 +6,8 @@ public class pregunta3 {
 public static void pregunta3() {
     char operador='*';
     switch (operador) {
-        case:'^'
-        case:'*'
+        case:'^';
+        case:'*':
             
             break;
     
