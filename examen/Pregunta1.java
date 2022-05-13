@@ -38,6 +38,7 @@ import java.util.Scanner;
         System.out.println(estado);
   }
 
+ 
     public static void main(String[] args) {
         Pregunta1();
     }
