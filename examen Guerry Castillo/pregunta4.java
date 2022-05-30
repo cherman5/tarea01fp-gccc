@@ -19,7 +19,7 @@ static void pregunta4() {
     //proceso
     if (edad>= 70){
     System.out.println("usted se debe aplicar la vacuna tipo C");
-    } else if (edad >= 16 && edad < 70 && sexo --'F'){
+    } else if (edad >= 16 && edad < 70 && sexo -- "F"){
     System.out.println("usted se debe aplicar la vacuna tipo B");
     } else if (edad>= 16 && edad <70 && sexo --'M'){
     System.out.println("usted se debe aplicar la vacuna tipo A");
